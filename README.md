@@ -1,5 +1,7 @@
 # VSCode_Demo
 
+![image](2.6.3_Capture.PNG)
+
 ## FinTech Repository
 ### FinTech Repository
 ---
@@ -12,5 +14,9 @@ print("Nice to meet you!")
 > "... to boldly go where no one has gone before"
 
 This change only exists on the local repo
+
+[code](code)
+[data](data)
+[reference](reference)
 
 
